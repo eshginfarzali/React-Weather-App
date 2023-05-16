@@ -1,6 +1,6 @@
 # React Weather App - ReactJS Projects
 
-![](weather.gif)
+![](weather-baku.png)
 
 ### Demo - Deployed  Pages 
 
